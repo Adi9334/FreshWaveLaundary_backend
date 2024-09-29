@@ -1,0 +1,233 @@
+2024-07-03 17:16:04 info: Db Query | verifyOTP  |  DbQueryTime: 1507
+2024-07-03 17:16:04 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 7064
+2024-07-03 17:28:43 info: Db Query | verifyOTP  |  DbQueryTime: 1516
+2024-07-03 17:28:43 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3135
+2024-07-03 18:16:29 info: Db Query | verifyOTP  |  DbQueryTime: 1212
+2024-07-03 18:16:29 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 1515
+2024-07-03 18:18:10 info: Db Query | verifyOTP  |  DbQueryTime: 1225
+2024-07-03 18:18:10 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 3027
+2024-07-05 13:26:15 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 17992
+2024-07-05 13:28:03 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 9995
+2024-07-05 13:39:23 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3502
+2024-07-05 13:45:25 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3521
+2024-07-05 13:52:20 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4354
+2024-07-05 14:03:37 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3417
+2024-07-05 14:06:29 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4097
+2024-07-05 14:07:50 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3341
+2024-07-05 14:10:58 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3381
+2024-07-05 14:21:18 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4121
+2024-07-05 14:25:37 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3345
+2024-07-05 14:29:45 info: Db Query | verifyOTP  |  DbQueryTime: 2107
+2024-07-05 14:38:47 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3592
+2024-07-05 14:46:39 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4138
+2024-07-05 15:02:08 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4285
+2024-07-05 15:02:30 info: Db Query | verifyOTP  |  DbQueryTime: 1540
+2024-07-05 15:02:30 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3371
+2024-07-05 15:04:39 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 6548
+2024-07-05 15:04:47 info: Db Query | verifyOTP  |  DbQueryTime: 1524
+2024-07-05 15:04:47 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 1837
+2024-07-05 15:06:35 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3404
+2024-07-05 15:06:46 info: Db Query | verifyOTP  |  DbQueryTime: 1514
+2024-07-05 15:06:46 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 1820
+2024-07-05 15:13:37 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3394
+2024-07-05 15:15:29 info: Db Query | verifyOTP  |  DbQueryTime: 1222
+2024-07-05 15:15:29 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 6062
+2024-07-05 15:17:48 info: Db Query | verifyOTP  |  DbQueryTime: 1326
+2024-07-05 15:17:48 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 3292
+2024-07-05 15:18:02 info: Db Query | verifyOTP  |  DbQueryTime: 1243
+2024-07-05 15:18:02 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 3105
+2024-07-05 15:23:18 info: Db Query | verifyOTP  |  DbQueryTime: 1266
+2024-07-05 15:23:18 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 3866
+2024-07-05 15:23:18 info: Db Query | verifyOTP  |  DbQueryTime: 1251
+2024-07-05 15:23:18 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 1649
+2024-07-05 16:48:45 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5760
+2024-07-05 16:49:02 info: Db Query | verifyOTP  |  DbQueryTime: 3615
+2024-07-05 16:49:02 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 6504
+2024-07-05 16:49:53 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 6182
+2024-07-05 16:50:04 info: Db Query | verifyOTP  |  DbQueryTime: 2582
+2024-07-05 16:50:04 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3484
+2024-07-05 17:13:48 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5747
+2024-07-05 17:14:59 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5097
+2024-07-05 17:15:28 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5078
+2024-07-05 17:16:31 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4544
+2024-07-05 17:19:59 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 6244
+2024-07-05 17:29:08 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4082
+2024-07-05 17:29:48 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3879
+2024-07-05 17:30:48 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3732
+2024-07-05 17:31:49 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3301
+2024-07-05 17:33:52 info: Db Query | verifyOTP  |  DbQueryTime: 2760
+2024-07-05 17:33:52 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 5943
+2024-07-05 17:35:13 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 7550
+2024-07-05 17:35:34 info: Db Query | verifyOTP  |  DbQueryTime: 3074
+2024-07-05 17:35:34 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 6046
+2024-07-05 17:47:34 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5543
+2024-07-05 17:50:38 info: Db Query | verifyOTP  |  DbQueryTime: 1590
+2024-07-05 17:50:38 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 4443
+2024-07-05 17:50:59 info: Db Query | verifyOTP  |  DbQueryTime: 3382
+2024-07-05 17:50:59 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 6924
+2024-07-05 17:54:08 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 6617
+2024-07-05 17:54:16 info: Db Query | verifyOTP  |  DbQueryTime: 2285
+2024-07-05 17:54:16 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 2652
+2024-07-05 17:54:25 info: Db Query | verifyOTP  |  DbQueryTime: 1944
+2024-07-05 17:54:25 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 2533
+2024-07-05 17:54:35 info: Db Query | verifyOTP  |  DbQueryTime: 2175
+2024-07-05 17:54:35 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 2970
+2024-07-05 17:54:44 info: Db Query | verifyOTP  |  DbQueryTime: 911
+2024-07-05 17:54:44 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 1212
+2024-07-05 17:55:03 info: Db Query | verifyOTP  |  DbQueryTime: 2920
+2024-07-05 17:55:03 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 6163
+2024-07-05 18:32:24 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3156
+2024-07-05 18:32:32 info: Db Query | verifyOTP  |  DbQueryTime: 1425
+2024-07-05 18:32:32 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 1710
+2024-07-05 18:40:01 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3139
+2024-07-05 18:40:30 info: Db Query | verifyOTP  |  DbQueryTime: 1354
+2024-07-05 18:40:30 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 2977
+2024-07-06 13:30:37 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3493
+2024-07-06 13:31:02 info: Db Query | verifyOTP  |  DbQueryTime: 1418
+2024-07-06 13:31:02 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 10168
+2024-07-06 17:21:33 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4871
+2024-07-06 17:22:13 info: Db Query | verifyOTP  |  DbQueryTime: 2071
+2024-07-06 17:22:13 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 4607
+2024-07-06 17:41:02 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4395
+2024-07-06 17:44:17 info: Db Query | verifyOTP  |  DbQueryTime: 4534
+2024-07-06 17:44:17 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 7763
+2024-07-06 18:20:23 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 2355
+2024-07-06 18:20:46 info: Db Query | verifyOTP  |  DbQueryTime: 2136
+2024-07-06 18:20:46 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3896
+2024-07-07 10:36:15 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5644
+2024-07-07 10:36:26 info: Db Query | verifyOTP  |  DbQueryTime: 3341
+2024-07-07 10:36:26 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3795
+2024-07-07 13:36:37 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3724
+2024-07-07 13:36:57 info: Db Query | verifyOTP  |  DbQueryTime: 1504
+2024-07-07 13:36:57 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3289
+2024-07-07 13:37:45 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3161
+2024-07-07 13:37:55 info: Db Query | verifyOTP  |  DbQueryTime: 1494
+2024-07-07 13:37:55 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 1781
+2024-07-07 13:52:58 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3286
+2024-07-07 13:53:43 info: Db Query | verifyOTP  |  DbQueryTime: 1439
+2024-07-07 13:53:43 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3125
+2024-07-07 16:50:11 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5599
+2024-07-07 16:50:40 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5503
+2024-07-07 16:50:56 info: Db Query | verifyOTP  |  DbQueryTime: 1518
+2024-07-07 16:50:56 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 4016
+2024-07-08 11:53:09 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3299
+2024-07-08 11:53:48 info: Db Query | verifyOTP  |  DbQueryTime: 1465
+2024-07-08 11:53:48 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3205
+2024-07-08 14:02:05 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3305
+2024-07-08 14:02:31 info: Db Query | verifyOTP  |  DbQueryTime: 1466
+2024-07-08 14:02:31 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3213
+2024-07-08 14:23:47 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3078
+2024-07-08 14:24:38 info: Db Query | verifyOTP  |  DbQueryTime: 1397
+2024-07-08 14:24:38 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3052
+2024-07-08 15:53:54 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3443
+2024-07-08 15:54:55 info: Db Query | verifyOTP  |  DbQueryTime: 1411
+2024-07-08 15:54:55 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3100
+2024-07-08 16:22:28 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3310
+2024-07-08 16:23:13 info: Db Query | verifyOTP  |  DbQueryTime: 1524
+2024-07-08 16:23:13 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3339
+2024-07-08 16:27:20 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3453
+2024-07-08 16:28:07 info: Db Query | verifyOTP  |  DbQueryTime: 1511
+2024-07-08 16:28:07 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3313
+2024-07-08 17:21:21 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3274
+2024-07-08 17:22:03 info: Db Query | verifyOTP  |  DbQueryTime: 1400
+2024-07-08 17:22:03 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3068
+2024-07-08 18:10:06 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5794
+2024-07-08 18:10:54 info: Db Query | verifyOTP  |  DbQueryTime: 1762
+2024-07-08 18:10:54 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3829
+2024-07-08 18:23:54 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5977
+2024-07-08 18:25:07 info: Db Query | verifyOTP  |  DbQueryTime: 1476
+2024-07-08 18:25:07 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3224
+2024-07-09 10:28:56 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3437
+2024-07-09 10:29:19 info: Db Query | verifyOTP  |  DbQueryTime: 1489
+2024-07-09 10:29:19 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3265
+2024-07-09 13:28:39 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5052
+2024-07-09 13:29:08 info: Db Query | verifyOTP  |  DbQueryTime: 2531
+2024-07-09 13:29:08 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 4465
+2024-07-09 14:07:36 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 6111
+2024-07-09 14:08:37 info: Db Query | verifyOTP  |  DbQueryTime: 2094
+2024-07-09 14:08:37 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 6061
+2024-07-09 15:14:10 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4550
+2024-07-09 15:14:10 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 5387
+2024-07-09 15:16:49 info: Db Query | verifyOTP  |  DbQueryTime: 2098
+2024-07-09 15:16:49 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 4382
+2024-07-09 16:05:44 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 6291
+2024-07-09 16:07:47 info: Db Query | verifyOTP  |  DbQueryTime: 2316
+2024-07-09 16:07:47 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 6060
+2024-07-10 12:41:23 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3307
+2024-07-10 12:42:09 info: Db Query | verifyOTP  |  DbQueryTime: 1581
+2024-07-10 12:42:09 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3420
+2024-07-10 15:55:17 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3855
+2024-07-10 15:55:54 info: Db Query | verifyOTP  |  DbQueryTime: 4413
+2024-07-10 15:55:54 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 8333
+2024-07-10 16:34:34 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3647
+2024-07-10 16:37:32 info: Db Query | verifyOTP  |  DbQueryTime: 1430
+2024-07-10 16:37:32 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3164
+2024-07-10 16:39:03 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 1936
+2024-07-10 16:46:18 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3880
+2024-07-11 10:54:19 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 4010
+2024-07-11 10:56:00 info: Db Query | verifyOTP  |  DbQueryTime: 1654
+2024-07-11 10:56:00 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3608
+2024-07-13 10:44:48 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 3445
+2024-07-13 10:45:08 info: Db Query | verifyOTP  |  DbQueryTime: 1426
+2024-07-13 10:45:08 info: API | resendOTP | [POST] | /resend-otp | Status: 200 | Total api time: 3369
+2024-07-13 10:45:19 info: Db Query | verifyOTP  |  DbQueryTime: 1632
+2024-07-13 10:45:19 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 1967
+2024-07-16 14:38:25 info: API | sendOTP | [POST] | /send-otp | Status: 200 | Total api time: 1891
+2024-07-16 14:39:02 info: Db Query | verifyOTP  |  DbQueryTime: 1807
+2024-07-16 14:39:02 info: API | verifyOTP | [POST] | /verify-otp | Status: 200 | Total api time: 3979
+2024-07-25 16:34:01 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1818
+2024-07-25 16:34:28 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1866
+2024-07-25 16:35:43 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1872
+2024-07-25 16:36:53 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1866
+2024-07-25 16:37:23 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1858
+2024-07-25 16:38:51 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2081
+2024-07-25 16:39:32 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1989
+2024-07-25 16:41:13 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1879
+2024-07-25 16:41:49 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1903
+2024-07-25 16:43:51 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3532
+2024-07-25 16:45:57 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2576
+2024-07-25 16:46:49 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1951
+2024-07-25 16:47:49 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1866
+2024-07-25 16:49:36 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2345
+2024-07-25 16:51:11 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1964
+2024-07-25 16:53:02 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3377
+2024-07-25 16:54:02 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3428
+2024-07-25 16:54:36 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3432
+2024-07-25 16:55:24 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2176
+2024-07-25 16:56:14 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3431
+2024-07-25 16:58:06 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3430
+2024-07-25 16:59:41 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1871
+2024-07-25 17:01:18 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1850
+2024-07-25 17:02:29 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3421
+2024-07-25 17:06:55 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3398
+2024-07-25 17:10:23 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3395
+2024-07-25 17:11:18 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3429
+2024-07-25 17:17:11 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3431
+2024-07-25 17:18:06 info: Db Query | verifyOTP  |  DbQueryTime: 1537
+2024-07-25 17:18:06 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 6474
+2024-07-25 17:21:04 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1890
+2024-07-25 17:21:20 info: Db Query | verifyOTP  |  DbQueryTime: 2440
+2024-07-25 17:21:20 info: API | resendOTP | [POST] | /laundry/apis/resend-otp | Status: 200 | Total api time: 5854
+2024-07-25 17:21:35 info: Db Query | verifyOTP  |  DbQueryTime: 1537
+2024-07-25 17:21:35 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 3429
+2024-07-25 17:24:54 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 1829
+2024-07-25 17:26:53 info: Db Query | verifyOTP  |  DbQueryTime: 1229
+2024-07-25 17:26:53 info: API | resendOTP | [POST] | /laundry/apis/resend-otp | Status: 200 | Total api time: 3099
+2024-07-25 17:29:09 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 3385
+2024-07-25 17:30:12 info: Db Query | verifyOTP  |  DbQueryTime: 1226
+2024-07-25 17:30:12 info: API | resendOTP | [POST] | /laundry/apis/resend-otp | Status: 200 | Total api time: 3119
+2024-07-25 17:34:11 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 4031
+2024-07-25 17:34:39 info: Db Query | verifyOTP  |  DbQueryTime: 2153
+2024-07-25 17:34:39 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 4048
+2024-08-13 12:39:41 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2961
+2024-08-13 12:41:31 info: Db Query | verifyOTP  |  DbQueryTime: 2140
+2024-08-13 12:41:31 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 3529
+2024-08-13 13:10:51 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2900
+2024-08-13 13:11:03 info: Db Query | verifyOTP  |  DbQueryTime: 1407
+2024-08-13 13:11:03 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 1688
+2024-08-13 14:05:27 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2970
+2024-08-13 14:05:36 info: Db Query | verifyOTP  |  DbQueryTime: 1702
+2024-08-13 14:05:36 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 1994
+2024-08-16 15:53:25 info: API | sendOTP | [POST] | /laundry/apis/send-otp | Status: 200 | Total api time: 2831
+2024-08-16 15:53:41 info: Db Query | verifyOTP  |  DbQueryTime: 1434
+2024-08-16 15:53:41 info: API | verifyOTP | [POST] | /laundry/apis/verify-otp | Status: 200 | Total api time: 2842
